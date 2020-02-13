@@ -1,5 +1,7 @@
 This file for CR1  
 
-Change to test push on remote repo 
+1. Change to test push on remote repo 
 
-change to test repo by teammate : Guru
+2. change to test repo by teammate : Guru
+
+3. Change by team mate to test rebase on remote repo
